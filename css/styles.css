@@ -1,0 +1,6 @@
+body {background-color: #dae684f6;}
+tr {background-color: #EAF6F6}
+/*class selector*/
+.placeholder:hover {background-color:	#7fff00; }
+.placeholder{background-size: 10px;}
+.butterfly{ width:35px;} 
